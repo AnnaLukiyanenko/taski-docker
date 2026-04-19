@@ -157,6 +157,7 @@ jobs:
           tags: a14072573/taski_gateway:latest
 
 
+
   deploy:
     runs-on: ubuntu-latest
     needs: 
