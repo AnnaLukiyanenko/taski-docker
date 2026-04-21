@@ -11,8 +11,6 @@ DEBUG = True
 ALLOWED_HOSTS = ['localhost', '123.123.123.123', 'myhost12.freedynamicdns.org', '158.160.193.198']
 
 
-# Application definition
-
 INSTALLED_APPS = [
     'api.apps.ApiConfig',
     'django.contrib.admin',
